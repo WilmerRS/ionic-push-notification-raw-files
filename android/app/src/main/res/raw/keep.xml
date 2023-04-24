@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:keep="@raw/wilmer.html, @raw/wilmer, @raw/*"
+  xmlns:tools="http://schemas.android.com/tools">
+</resources>
